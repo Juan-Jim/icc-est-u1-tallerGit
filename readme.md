@@ -2,4 +2,9 @@
 
 ### NOMBRES 
 
-Juan Jimenez  Cristopher alinas 
+Juan Jimenez  
+Cristopher Salinas 
+
+### MATERIA 
+
+Estructura de datos     
